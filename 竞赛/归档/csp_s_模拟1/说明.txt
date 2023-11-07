@@ -1,0 +1,8 @@
+T1: lamp
+T2: threads
+T3: balls
+T4: tank
+
+难度在csp-s -> noip之间
+
+四个小时，不能上网查阅资料。之后提交

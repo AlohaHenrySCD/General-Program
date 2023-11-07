@@ -1,0 +1,5 @@
+INFO = "\033[1;34m[INFO] "
+WARN = "\033[1;33m[WARN] "
+ERRO = "\033[1;31m[ERRO] "
+INPT = "\033[1;32m[INFO] "
+TAIL = "\033[0;37m"
