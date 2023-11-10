@@ -9,9 +9,12 @@
 #define ll long long
 #define pii pair<int, int>
 using namespace std;
-int n, m;
+const ll A = 1e5+5;
+ll a, b;
 
 int main(){
-    // code 
+    cin >> a >> b;
+    if(a > b) swap(a, b);
+    cout << (a-1)*b - a;
     return 0;
 }
